@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 /.metadata/
 /.recommenders/
-=======
 # Compiled class file
 *.class
 
@@ -30,4 +28,3 @@ bin/
 .settings/
 .classpath
 .project
->>>>>>> e08bda7099c951c4b891df3acef32b330e9d24b3
