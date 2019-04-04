@@ -44,6 +44,11 @@ public class Galletita {
 	public void setPrecio(Double p) {
 		this.precio = p;
 	}
+
+	@Override
+	public String toString() {
+		return String.format("Galletita: %s sale $ %.2f", this.nombre, this.precio);
+	}
 	
 	
 	
