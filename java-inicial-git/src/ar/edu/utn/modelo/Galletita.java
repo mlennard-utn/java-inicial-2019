@@ -41,6 +41,10 @@ public class Galletita {
 		return precio;
 	}
 	
+	public void setPrecio(Double p) {
+		this.precio = p;
+	}
+	
 	
 	
 }
