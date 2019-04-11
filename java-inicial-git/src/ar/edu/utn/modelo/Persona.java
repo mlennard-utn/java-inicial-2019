@@ -32,4 +32,14 @@ public class Persona {
 		this.anio = anio;
 	}
 	
+	public void identificarse() {
+		// mostrar/imprimir nombre y edad
+		System.out.println(this.nombre + ":" + (2019 - this.anio));
+	}
+	
+	public int getEdad() {
+		return 2019 - anio;
+	}
+	
+	
 }
